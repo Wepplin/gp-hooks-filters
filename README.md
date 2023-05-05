@@ -6,6 +6,10 @@ No support for filters yet.
 
 ## Release Notes
 
+### 0.3
+
+Added add_action() wrappers for all hooks.
+
 ### 0.2.3
 
 Minor changes to release automation.
