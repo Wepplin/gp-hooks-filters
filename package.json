@@ -3,7 +3,7 @@
   "displayName": "GeneratePress Hooks & Filters",
   "description": "Add GeneratePress Hooks & Filters to your code in Visual Studio Code.",
   "publisher": "Wepplin",
-  "version": "0.0.1",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.57.1"
   },

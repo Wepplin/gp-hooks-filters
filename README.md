@@ -6,6 +6,10 @@ No support for filters yet.
 
 ## Release Notes
 
+### 0.2.3
+
+Minor changes to release automation.
+
 ### 0.2
 
 Added support for older Visual Studio Code versions.
