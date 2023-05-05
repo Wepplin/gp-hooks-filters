@@ -14,7 +14,7 @@
     "WordPress",
     "GeneratePress"
   ],
-  "icon": "./images/icon.png",
+  "icon": "/images/icon.png",
   "license": "GNU GPL v3",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "snippets": [
       {
         "language": "php",
-        "path": "./snippets/hooks-filters.json"
+        "path": "/snippets/hooks-filters.json"
       }
     ]
   }
