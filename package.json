@@ -1,0 +1,20 @@
+{
+  "name": "gp-hooks-filters",
+  "displayName": "GeneratePress Hooks & Filters",
+  "description": "Add GeneratePress Hooks & Filters to your code in Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "php",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
