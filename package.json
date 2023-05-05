@@ -9,6 +9,19 @@
   "categories": [
     "Snippets"
   ],
+  "keywords": [
+    "WordPress",
+    "GeneratePress"
+  ],
+  "icon": "./images/icon.png",
+  "license": "GNU GPL v3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wepplin/gp-hooks-filters"
+  },
+  "bugs": {
+    "email": "rob@wepplin.com"
+  },
   "contributes": {
     "snippets": [
       {
